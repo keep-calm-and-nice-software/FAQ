@@ -1,2 +1,3 @@
-# faq
-Frequently Asked Questions
+# FAQ (Frequently Asked Questions)
+
+Coming soon.
