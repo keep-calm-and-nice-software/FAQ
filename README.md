@@ -1,3 +1,3 @@
 # FAQ (Frequently Asked Questions)
 
-Coming soon.
+Open issues you say? You folks are nuts! :)
